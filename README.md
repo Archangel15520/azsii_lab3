@@ -76,7 +76,7 @@ plt.tight_layout()  # Применяем автоматическое вырав
 plt.show()  # Показываем график с изображениями.
 ```
 
-![image](https://github.com/Archangel15520/azsii_lab3/blob/main/screenshot/3.png)
+![image](https://github.com/Archangel15520/azsii_lab3/blob/main/screenshot/3.JPG)
 
 ## 4. Модификация модели для использования линейной активации:
 
